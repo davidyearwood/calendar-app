@@ -51,7 +51,7 @@
     "chai": "^4.2.0",
     "eslint": "^5.8.0",
     "eslint-loader": "^3.0.2",
-    "jsdom": "^12.1.0"
+    "jsdom": "^16.5.0"
   },
   "jest": {
     "collectCoverageFrom": [
